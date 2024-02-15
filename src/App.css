@@ -1,0 +1,11 @@
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+
+body {
+  background-image: url('https://eskipaper.com/images/orion-nebula-1.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
